@@ -1,0 +1,14 @@
+C:\Users\MauricioJavi_ees35db\Documents\csharp\intruccionesif\instruccionesif\bin\Debug\net8.0\instruccionesif.exe
+C:\Users\MauricioJavi_ees35db\Documents\csharp\intruccionesif\instruccionesif\bin\Debug\net8.0\instruccionesif.deps.json
+C:\Users\MauricioJavi_ees35db\Documents\csharp\intruccionesif\instruccionesif\bin\Debug\net8.0\instruccionesif.runtimeconfig.json
+C:\Users\MauricioJavi_ees35db\Documents\csharp\intruccionesif\instruccionesif\bin\Debug\net8.0\instruccionesif.dll
+C:\Users\MauricioJavi_ees35db\Documents\csharp\intruccionesif\instruccionesif\bin\Debug\net8.0\instruccionesif.pdb
+C:\Users\MauricioJavi_ees35db\Documents\csharp\intruccionesif\instruccionesif\obj\Debug\net8.0\instruccionesif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MauricioJavi_ees35db\Documents\csharp\intruccionesif\instruccionesif\obj\Debug\net8.0\instruccionesif.AssemblyInfoInputs.cache
+C:\Users\MauricioJavi_ees35db\Documents\csharp\intruccionesif\instruccionesif\obj\Debug\net8.0\instruccionesif.AssemblyInfo.cs
+C:\Users\MauricioJavi_ees35db\Documents\csharp\intruccionesif\instruccionesif\obj\Debug\net8.0\instruccionesif.csproj.CoreCompileInputs.cache
+C:\Users\MauricioJavi_ees35db\Documents\csharp\intruccionesif\instruccionesif\obj\Debug\net8.0\instruccionesif.dll
+C:\Users\MauricioJavi_ees35db\Documents\csharp\intruccionesif\instruccionesif\obj\Debug\net8.0\refint\instruccionesif.dll
+C:\Users\MauricioJavi_ees35db\Documents\csharp\intruccionesif\instruccionesif\obj\Debug\net8.0\instruccionesif.pdb
+C:\Users\MauricioJavi_ees35db\Documents\csharp\intruccionesif\instruccionesif\obj\Debug\net8.0\instruccionesif.genruntimeconfig.cache
+C:\Users\MauricioJavi_ees35db\Documents\csharp\intruccionesif\instruccionesif\obj\Debug\net8.0\ref\instruccionesif.dll
